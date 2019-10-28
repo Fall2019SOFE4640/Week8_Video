@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="downloadAndPlayVideo"
-        android:text="@string/go" />
+        android:drawableTop="@drawable/ic_play_arrow_black_24dp"/>
 
     <SurfaceView
         android:id="@+id/surfaceView"
